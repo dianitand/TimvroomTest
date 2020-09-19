@@ -1,0 +1,16 @@
+1. Install Necessary Tools 
+Ruby: Windows (https://rubyinstaller.org/), Linux (https://www.ruby-lang.org/en/downloads/)
+Chromedriver (http://chromedriver.chromium.org/)
+
+2. Copy your Chromedriver to Ruby path insallation/bin
+
+3. Install gem
+gem install selenium-webdriver
+
+4. Clone my Repo to your PC
+
+5. And run the terminal/CMD from my Folder
+
+6. And write command: timvroom
+
+7. Press enter
